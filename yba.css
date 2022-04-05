@@ -493,7 +493,6 @@ img{
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     /* "delay" the visibility transition */
-    -webkit-transition: opacity .5s, visibility 0s linear .5s;
     transition: opacity .5s, visibility 0s linear .5s;
     z-index: 1;
   }
